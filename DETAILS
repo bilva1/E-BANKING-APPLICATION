@@ -1,0 +1,6 @@
+The provided code is just a basic layout for an e-banking application. You would need to add actual functionality, 
+such as account login, account balance retrieval, and transaction handling, by using backend technologies like Node.js, 
+Express, and a database like MongoDB. Additionally, you should implement security measures to protect sensitive user data.
+
+Remember that building a real-world banking application requires careful planning, security measures, and compliance with various regulations.
+This simplified example is only intended to give you a starting point with the front-end design.
